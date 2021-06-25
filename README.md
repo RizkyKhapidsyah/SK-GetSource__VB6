@@ -1,2 +1,5 @@
 # SK-GetSource__VB6
-Bahan Ajar Fundamental Pemrograman Visual Basic 6.0 - Studi Kasus; Get Source
+Bahan Ajar Fundamental Pemrograman Visual Basic 6.0 - Studi Kasus; Get Source by Abdulaziz A Alfoudari<br><br>
+<img src="https://github.com/RizkyKhapidsyah/SK-GetSource__VB6/blob/main/result/001.PNG"><br><br>
+Lihat Source Code : <br>
+- <a href="https://github.com/RizkyKhapidsyah/SK-GetSource__VB6">Program</a>
